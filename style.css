@@ -1,0 +1,194 @@
+
+body{
+    background:linear-gradient(to          right, #ff7e5f, #feb47b);
+    /*background-image:url('nature.jpg');*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-: 10%;
+     min-height: 100vh;
+    margin: 0;
+    display: relative;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background-opacity: 0.2;
+    
+}
+
+.clock {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px 20px;
+    border-radius: 15px;
+    margin: 10px 20px 20px 20px;
+}
+
+#time {
+    font-size: 3em;
+    font-weight: bold;
+    
+}
+
+h3{
+    font-size: 40px;
+    position: center;
+    align-item: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px 0px 20px 0px;
+    padding: 10px 10px;
+    margin: 20px 20px 20px 20px;
+    color: #c6d8a2;
+    font-family:Cursive,Brush,ScriptMT;
+}
+#nav{
+    color: white;
+    background-image:url('banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:0;
+    padding-top:1px;
+    padding-bottom:0px;
+    height:60px;
+    width: 100%;
+    text-align: center;
+    align-item: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+#made{ font-size:27px;
+        padding: 1px;
+        margin-top: 13px;
+        margin-bottom: -23px;
+        height: 50px;
+    
+}
+
+p{
+    font-size:12px;
+    font-weight: normal;
+    font-family: Monospace,Courier,New;
+}
+
+
+/* styles.css */
+
+
+
+form {
+    max-width: 200px;
+    margin: 180px 2px 2px 45px;
+   
+}
+
+label {
+    display: inline;
+    margin-bottom: 5px;
+    font-weight: bold;
+    padding: 50px 5px 0px 2px ;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ensure padding doesn't affect total width */
+    resize: vertical; /* Allows vertical resizing */
+    font-family: Cursive,Brush,ScriptMT;
+    font-size: 16px;
+}
+
+button {
+    display: inline;
+    margin-top:6px;
+    margin-left:15px;
+    padding: 6px 20px;
+    background-color: #00d259;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    align-item:center;
+}
+
+button:hover {
+    background-color: #3bff00;
+}
+
+#social{
+    color: #1c15ff;
+    margin: 25px 0px 2px 0px;
+    font-size: 25px;
+    height: 25px;
+    width:350px; 
+    align-item: center;
+    position: center;
+}
+#f{
+    margin: 0px  25px 1px 50px;
+}
+    
+#y{
+    margin: 0px  25px 1px 50px;
+}
+
+#i{
+    margin: 0px  25px 1px 45px;
+}
+
+.developed {
+    font-size: 13px;
+    font-family: Monospace,Courier,New;
+    color: white;
+    margin: 25px 0px 0px 0px;
+    align-item: center;
+}
+
+a:hover{
+    background-color: #00afd2dd;
+    padding: 4.5px 5px 4.5px 5px;
+    border-radius: 5px;
+    animation-dely: 2s;
+    border: none;
+    shadow: 0px 3px 3px 0px;
+    }
+
+#ampm{
+    color: #00ddf1;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 2px 0px 2px 15px;
+    border: 1px solid red;
+    border-left: none;
+    border-right: none;
+    border-top: dotted;
+     border-bottom: dotted;
+    padding: 5px;   
+    border-radius: 7px;
+}
+
+fieldset {
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px;
+    margin-left: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.ok the best friend loia tk )()
